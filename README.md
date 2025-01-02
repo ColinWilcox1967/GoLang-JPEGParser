@@ -1,2 +1,2 @@
 # GoLang-JPEGParser
-Simple JPEG file header parser
+Very simple JPEG file header parser
